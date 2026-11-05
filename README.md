@@ -29,8 +29,9 @@ easy-to-maintain code, and I'm always learning new technologies.
 ### GitHub stats
 
 <p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maidzinha&theme=github_dark" alt="Stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maidzinha&theme=github_dark" alt="Top languages" />
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" />
+  <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
 </p>
 
 <p>

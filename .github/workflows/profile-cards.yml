@@ -1,0 +1,20 @@
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # todo dia às 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Token pessoal com escopo "repo" para incluir repositórios privados
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
