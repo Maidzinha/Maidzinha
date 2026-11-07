@@ -15,24 +15,34 @@ easy-to-maintain code, and I'm always learning new technologies.
 
 ### What I do
 
-- **Desktop apps**: Windows apps in C# / .NET (WPF), like [Maid Installer](https://github.com/Maidzinha/maid-installer), a post-format PC setup tool with WinGet, profiles, themes, and a local AI assistant
-- **AI assistants**: desktop assistants with voice, long-term memory, and 3D avatars (Electron + React + TypeScript), running on local or cloud LLMs
+- **Desktop apps**: Windows apps in C# / .NET (WPF) and Electron, with dark themes, anime mascots, and PT-BR / EN support
+- **AI assistants**: desktop assistants with voice, long-term memory, and 3D avatars, running on local or cloud LLMs
 - **Game development**: Roblox games in Luau, Unity game mods with BepInEx (C#), and FiveM server scripting in Lua
 - **Automation**: PowerShell and Python scripts for installers, builds, and repetitive tasks
-- **Best practices**: Git, changelogs, and bilingual documentation (PT-BR / EN)
+- **Best practices**: Git, releases, changelogs, and bilingual documentation (PT-BR / EN)
+
+### Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Maid Installer**](https://github.com/Maidzinha/maid-installer) | Sets up a Windows PC after formatting: WinGet, profiles, post-format kit, local AI, and portable mode (Ventoy) | C# · .NET 10 · WPF |
+| [**Assistente Yui**](https://github.com/Maidzinha/assistente-yui) | Virtual little-sister assistant with voice and text chat, emotional voice (ElevenLabs), memory, and a 3D VRM avatar | TypeScript · Electron · React |
+| [**Orbit**](https://github.com/Maidzinha/orbit) | Screen time tracker with an anime neon look: see which apps you use most, with levels and achievements | JavaScript · Electron |
+| [**Desligamento Programado**](https://github.com/Maidzinha/desligamento-programado) | Timer to shut down, restart, sleep, or hibernate the PC | JavaScript · Electron |
 
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,windows,ts,react,electron,vite,nodejs,html,css,python,lua,git,vscode&perline=15" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,windows,js,ts,react,electron,vite,nodejs,html,css,python,lua,git,vscode&perline=16" alt="Tech stack" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Roblox Studio" />
-  <img src="https://img.shields.io/badge/Luau-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/Luau-2C2D72?style=flat-square" alt="Luau" />
   <img src="https://img.shields.io/badge/BepInEx-5C2D91?style=flat-square" alt="BepInEx" />
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" alt="FiveM" />
+  <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square" alt="FiveM" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
 </p>
 
 ### GitHub stats
