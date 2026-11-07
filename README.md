@@ -1,6 +1,6 @@
 ## Helder Augusto
 
-**Software Developer** · Juranda, PR · Brazil
+**Software Developer** · Paraná · Brazil
 
 Developer with 5 years of experience building web applications and automations,
 from back-end to interface. I enjoy solving real problems with simple, organized,
