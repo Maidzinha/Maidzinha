@@ -1,4 +1,4 @@
-## Helder Augusto da Silva
+## Helder Augusto
 
 **Software Developer** · Juranda, PR · Brazil
 
