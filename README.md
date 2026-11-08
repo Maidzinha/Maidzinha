@@ -9,6 +9,7 @@ easy-to-maintain code, and I'm always learning new technologies.
 <p>
   <a href="mailto:helderaugusto357@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Maidzinha"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://maidzinha.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
 </p>
 
 ---
@@ -17,7 +18,7 @@ easy-to-maintain code, and I'm always learning new technologies.
 
 - **Desktop apps**: Windows apps in C# / .NET (WPF) and Electron, with dark themes, anime mascots, and PT-BR / EN support
 - **AI assistants**: desktop assistants with voice, long-term memory, and 3D avatars, running on local or cloud LLMs
-- **Game development**: Roblox games in Luau, Unity game mods with BepInEx (C#), and FiveM server scripting in Lua
+- **Game development**: desktop companion games, Roblox games in Luau, Unity game mods with BepInEx (C#), and FiveM server scripting in Lua
 - **Automation**: PowerShell and Python scripts for installers, builds, and repetitive tasks
 - **Best practices**: Git, releases, changelogs, and bilingual documentation (PT-BR / EN)
 
@@ -27,6 +28,7 @@ easy-to-maintain code, and I'm always learning new technologies.
 |---|---|---|
 | [**Maid Installer**](https://github.com/Maidzinha/maid-installer) | Sets up a Windows PC after formatting: WinGet, profiles, post-format kit, local AI, and portable mode (Ventoy) | C# · .NET 10 · WPF |
 | [**Assistente Yui**](https://github.com/Maidzinha/assistente-yui) | Virtual little-sister assistant with voice and text chat, emotional voice (ElevenLabs), memory, and a 3D VRM avatar | TypeScript · Electron · React |
+| [**Luma**](https://maidzinha.itch.io/luma-companheira-virtual) | Virtual desktop companion who fell from the moon: pet her, feed her, chat, play mini-games, and buy outfits (on itch.io) | HTML · JavaScript · Electron |
 | [**Orbit**](https://github.com/Maidzinha/orbit) | Screen time tracker with an anime neon look: see which apps you use most, with levels and achievements | JavaScript · Electron |
 | [**Desligamento Programado**](https://github.com/Maidzinha/desligamento-programado) | Timer to shut down, restart, sleep, or hibernate the PC | JavaScript · Electron |
 
