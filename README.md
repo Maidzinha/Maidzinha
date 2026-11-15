@@ -18,9 +18,11 @@ easy-to-maintain code, and I'm always learning new technologies.
 
 - **Desktop apps**: Windows apps in C# / .NET (WPF) and Electron, with dark themes, anime mascots, and PT-BR / EN support
 - **AI assistants**: desktop assistants with voice, long-term memory, and 3D avatars, running on local or cloud LLMs
-- **Game development**: desktop companion games, Roblox games in Luau, Unity game mods with BepInEx (C#), and FiveM server scripting in Lua
+- **Game development**: desktop companion games, horror-comedy games in Electron + JavaScript, Roblox games in Luau, Unity game mods with BepInEx (C#), and FiveM server scripting in Lua
 - **Automation**: PowerShell and Python scripts for installers, builds, and repetitive tasks
 - **Best practices**: Git, releases, changelogs, and bilingual documentation (PT-BR / EN)
+
+> 🚧 **Currently building:** a horror-comedy survival game set in an abandoned maid café (Electron + JavaScript)
 
 ### Featured projects
 
