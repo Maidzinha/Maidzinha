@@ -22,7 +22,7 @@ easy-to-maintain code, and I'm always learning new technologies.
 - **Automation**: PowerShell and Python scripts for installers, builds, and repetitive tasks
 - **Best practices**: Git, releases, changelogs, and bilingual documentation (PT-BR / EN)
 
-> 🚧 **Currently building:** a horror-comedy survival game set in an abandoned maid café (Electron + JavaScript)
+> 🚧 **Currently building:** **Moe Moe Midnight**, a horror-comedy survival game set in an abandoned maid café (Electron + JavaScript)
 
 ### Featured projects
 
