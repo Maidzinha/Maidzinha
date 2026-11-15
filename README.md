@@ -22,14 +22,44 @@ easy-to-maintain code, and I'm always learning new technologies.
 - **Automation**: PowerShell and Python scripts for installers, builds, and repetitive tasks
 - **Best practices**: Git, releases, changelogs, and bilingual documentation (PT-BR / EN)
 
-> 🚧 **Currently building:** **Moe Moe Midnight**, a horror-comedy survival game set in an abandoned maid café (Electron + JavaScript)
+### ⭐ Main projects
 
-### Featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://maidzinha.itch.io/moe-moe-midnight"><img src="https://img.itch.zone/aW1nLzMyMjgyNzQzLnBuZw==/original/qRirZs.png" alt="Moe Moe Midnight" width="100%" /></a>
+<h3><a href="https://maidzinha.itch.io/moe-moe-midnight">Moe Moe Midnight</a></h3>
+<p>Horror-comedy survival game. Survive from <b>00:00 to 06:00</b> watching the cameras of an abandoned maid café whose android maids still think it's opening night.</p>
+<ul>
+<li>8 security cameras, steel doors, and power management</li>
+<li>5 android maids with unique mechanics and AI that gets more aggressive every hour and every night</li>
+<li>6 nights and a true ending</li>
+<li>Voiced phone calls, cutscenes, and jumpscares</li>
+</ul>
+<p><sub>Electron · JavaScript · HTML5 Canvas</sub></p>
+<a href="https://maidzinha.itch.io/moe-moe-midnight"><img src="https://img.shields.io/badge/Coming_soon-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Coming soon on itch.io" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Maidzinha/assistente-yui"><img src="https://raw.githubusercontent.com/Maidzinha/assistente-yui/main/docs/images/inicio.png" alt="Assistente Yui" width="100%" /></a>
+<h3><a href="https://github.com/Maidzinha/assistente-yui">Assistente Yui</a></h3>
+<p>A playful virtual little sister for Windows who chats by <b>voice or text</b>, remembers what you tell her, and helps you use your PC.</p>
+<ul>
+<li>Voice conversation: speech-to-text and replies spoken sentence by sentence</li>
+<li>Expressive voice with emotions (ElevenLabs)</li>
+<li>Long-term memory and Windows actions</li>
+<li>3D VRM avatar with lip sync and facial expressions</li>
+</ul>
+<p><sub>Electron · React · TypeScript</sub></p>
+<a href="https://github.com/Maidzinha/assistente-yui/releases/latest"><img src="https://img.shields.io/github/v/release/Maidzinha/assistente-yui?label=download&color=e9799f&style=for-the-badge" alt="Download" /></a>
+</td>
+</tr>
+</table>
+
+### Other projects
 
 | Project | Description | Stack |
 |---|---|---|
 | [**Maid Installer**](https://github.com/Maidzinha/maid-installer) | Sets up a Windows PC after formatting: WinGet, profiles, post-format kit, local AI, and portable mode (Ventoy) | C# · .NET 10 · WPF |
-| [**Assistente Yui**](https://github.com/Maidzinha/assistente-yui) | Virtual little-sister assistant with voice and text chat, emotional voice (ElevenLabs), memory, and a 3D VRM avatar | TypeScript · Electron · React |
 | [**Luma**](https://maidzinha.itch.io/luma-companheira-virtual) | Virtual desktop companion who fell from the moon: pet her, feed her, chat, play mini-games, and buy outfits (on itch.io) | HTML · JavaScript · Electron |
 | [**Orbit**](https://github.com/Maidzinha/orbit) | Screen time tracker with an anime neon look: see which apps you use most, with levels and achievements | JavaScript · Electron |
 | [**Desligamento Programado**](https://github.com/Maidzinha/desligamento-programado) | Timer to shut down, restart, sleep, or hibernate the PC | JavaScript · Electron |
