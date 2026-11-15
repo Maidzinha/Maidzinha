@@ -37,7 +37,7 @@ easy-to-maintain code, and I'm always learning new technologies.
 <li>Voiced phone calls, cutscenes, and jumpscares</li>
 </ul>
 <p><sub>Electron · JavaScript · HTML5 Canvas</sub></p>
-<a href="https://maidzinha.itch.io/moe-moe-midnight"><img src="https://img.shields.io/badge/Coming_soon-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Coming soon on itch.io" /></a>
+<a href="https://maidzinha.itch.io/moe-moe-midnight"><img src="https://img.shields.io/badge/Download-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Download on itch.io" /></a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Maidzinha/assistente-yui"><img src="https://raw.githubusercontent.com/Maidzinha/assistente-yui/main/docs/images/inicio.png" alt="Assistente Yui" width="100%" /></a>
