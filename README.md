@@ -57,6 +57,27 @@ easy-to-maintain code, and I'm always learning new technologies.
 </tr>
 </table>
 
+### 🛠️ Studio apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://maidzinhainteractive.com/projetos.html#maid-deck"><img src="https://maidzinhainteractive.com/img/projetos/maid-deck/capa.jpg" alt="Maid Deck" width="100%" /></a>
+<h3><a href="https://maidzinhainteractive.com/projetos.html#maid-deck">Maid Deck</a></h3>
+<p>A stream deck in the browser: control <b>OBS Studio</b> from your phone, from anywhere.</p>
+<p><sub>Web app · React · TypeScript · Fastify · OBS WebSocket</sub></p>
+<a href="https://maidzinhainteractive.com/projetos.html#maid-deck"><img src="https://img.shields.io/badge/Online-View_app-8B5CF6?style=for-the-badge" alt="View app" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://maidzinhainteractive.com/projetos.html#license-manager"><img src="https://maidzinhainteractive.com/img/projetos/license-manager/capa.jpg" alt="Maidzinha License Manager" width="100%" /></a>
+<h3><a href="https://maidzinhainteractive.com/projetos.html#license-manager">Maidzinha License Manager</a></h3>
+<p>Create and manage licenses, customers, and payments in one dashboard, with a validation API and offline mode.</p>
+<p><sub>Windows app · Python · PySide6 · FastAPI · Ed25519</sub></p>
+<a href="https://maidzinhainteractive.com/projetos.html#license-manager"><img src="https://img.shields.io/badge/v1.0.0-View_app-8B5CF6?style=for-the-badge" alt="View app" /></a>
+</td>
+</tr>
+</table>
+
 ### Other projects
 
 | Project | Description | Stack |
