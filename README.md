@@ -1,12 +1,14 @@
 ## Helder Augusto
 
-**Software Developer** · Paraná · Brazil
+**Software Developer** · Founder of [Maidzinha Interactive Creations](https://maidzinhainteractive.com) · Paraná · Brazil
 
 Developer with 5 years of experience building web applications and automations,
 from back-end to interface. I enjoy solving real problems with simple, organized,
 easy-to-maintain code, and I'm always learning new technologies.
 
 <p>
+  <a href="https://maidzinhainteractive.com"><img src="https://img.shields.io/badge/Studio-maidzinhainteractive.com-D6336C?style=flat-square&logo=googlechrome&logoColor=white" alt="Studio website" /></a>
+  <a href="mailto:contato@maidzinhainteractive.com"><img src="https://img.shields.io/badge/Studio_email-contato@maidzinhainteractive.com-D6336C?style=flat-square&logo=maildotru&logoColor=white" alt="Studio email" /></a>
   <a href="mailto:helderaugusto357@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Maidzinha"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://maidzinha.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
@@ -93,4 +95,4 @@ easy-to-maintain code, and I'm always learning new technologies.
 
 ---
 
-<sub>Open to opportunities and collaborations. Reach me by email: helderaugusto357@gmail.com</sub>
+<sub>Open to opportunities and collaborations. Studio contact: <a href="mailto:contato@maidzinhainteractive.com">contato@maidzinhainteractive.com</a> · Personal: helderaugusto357@gmail.com · <a href="https://maidzinhainteractive.com">maidzinhainteractive.com</a></sub>
