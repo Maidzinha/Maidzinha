@@ -111,7 +111,7 @@ easy-to-maintain code, and I'm always learning new technologies.
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=Maidzinha&theme=github-dark-blue&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Maidzinha&theme=github-dark-blue&hide_border=true&timezone=America/Sao_Paulo" alt="Streak" />
 </p>
 
 ---
